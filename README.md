@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently a SWE Intern on the Connected Products team at Rivian
 - 🌱 I have working experience with front-end, back-end, mobile (Android and iOS), and QA (testing)
-- 📫 Reach me at via **[LinkedIn](https://www.linkedin.com/in/ktan03/)** or **[Email](kevin2012tan@gmail.com)**
+- 📫 Reach me at via **[LinkedIn](https://www.linkedin.com/in/ktan03/)** or **[Email](mailto:kevin2012tan@gmail.com)**
 
 
 ##  **Skills**
